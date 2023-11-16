@@ -1,0 +1,6 @@
+.like{
+    background-image: linear-gradient(green,red,yellow);
+    padding: 20px;
+    box-shadow: 2px 2px;
+    color: rgb(37, 53, 116);
+}
